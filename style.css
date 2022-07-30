@@ -1,0 +1,28 @@
+.capture{
+    height: 200px;
+    width: 400px;
+    border: 3px solid green;
+    margin-left: 70px;
+    margin-top: 50px;
+    padding-left: 20px;
+    overflow-y: scroll;
+    overflow-wrap: wrap;
+    
+    }
+    .word{
+    width: 418px;
+    height: 50px;
+    border: 3px solid rgb(7, 163, 85);
+    margin-left: 70px;
+    padding-left: 5px;
+    font-size: 22px;
+    }
+    
+    button{
+        background-color: rgb(182, 11, 139);
+        font-size: 17px;
+       margin-left: 190px;
+    }
+    h2{
+        margin-left: 65px;
+    }
